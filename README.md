@@ -13,3 +13,7 @@
 ### 2. GET
 ### 3. PATCH
 ### 4. DELETE
+
+
+## Author
+- Kevin Onyancha
